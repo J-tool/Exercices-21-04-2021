@@ -1,0 +1,32 @@
+@font-face {
+     font-family: 'bubble';
+     src: url(bubble.ttf);
+     font-style: normal;
+     font-weight: 72
+
+}
+
+body {
+  font-family: bubble;
+  font-weight: 72
+  
+} 
+
+
+p {
+	color: blue;
+}
+
+img {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
+
+a {
+   font-size: 1.2em;
+   text-decoration: none;
+}
+a:hover {
+	color: red;
+}
