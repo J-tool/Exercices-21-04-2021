@@ -1,0 +1,21 @@
+.titre {
+	font-family: 'bangers', cursive;
+}
+
+body {
+	background-color: #e4dfdc
+}
+
+header {
+	display: flex;
+	justify-content: center;
+	font-size: 1.5em
+}
+
+div {
+	font-size: 1.2em
+}
+
+ul {
+	font-size: 1.1em
+}
